@@ -1,3 +1,3 @@
-# DJamesP.github.io
-GitHub Pages Repository
-Some stuffs here.
+# inforapenny.github.io
+GitHub Pages Repository for inforapenny.org 
+
