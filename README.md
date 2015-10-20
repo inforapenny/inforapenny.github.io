@@ -1,3 +1,3 @@
 # inforapenny.github.io
-GitHub Pages Repository for [inforapenny.org](www.inforapenny.org) 
+GitHub Pages Repository for [inforapenny.org](http://www.inforapenny.org) 
 
